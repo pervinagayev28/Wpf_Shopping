@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "Sushi",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\Maki-zushi.webp",
+    "Price": 18.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Burger",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\classic-hamburger-stock-photo-isolated-260nw-2282033179.webp",
+    "Price": 8.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Pasta",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\FusilliPasta8-500x375.jpg",
+    "Price": 10.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Burger",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\classic-hamburger-stock-photo-isolated-260nw-2282033179.webp",
+    "Price": 8.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Pasta",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\FusilliPasta8-500x375.jpg",
+    "Price": 10.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Sushi",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\Maki-zushi.webp",
+    "Price": 18.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Pasta",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\FusilliPasta8-500x375.jpg",
+    "Price": 10.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Burger",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\classic-hamburger-stock-photo-isolated-260nw-2282033179.webp",
+    "Price": 8.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Sushi",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\Maki-zushi.webp",
+    "Price": 18.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Pasta",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\FusilliPasta8-500x375.jpg",
+    "Price": 10.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Burger",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\classic-hamburger-stock-photo-isolated-260nw-2282033179.webp",
+    "Price": 8.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Sushi",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\Maki-zushi.webp",
+    "Price": 18.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Burger",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\classic-hamburger-stock-photo-isolated-260nw-2282033179.webp",
+    "Price": 8.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Pasta",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\FusilliPasta8-500x375.jpg",
+    "Price": 10.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Sushi",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\Maki-zushi.webp",
+    "Price": 18.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Burger",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\classic-hamburger-stock-photo-isolated-260nw-2282033179.webp",
+    "Price": 8.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Pasta",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\FusilliPasta8-500x375.jpg",
+    "Price": 10.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Sushi",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\Maki-zushi.webp",
+    "Price": 18.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Burger",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\classic-hamburger-stock-photo-isolated-260nw-2282033179.webp",
+    "Price": 8.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  },
+  {
+    "Name": "Pasta",
+    "ImageSource": "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\ImageResources\\FusilliPasta8-500x375.jpg",
+    "Price": 10.99,
+    "FinalDate": "2023-10-21T00:00:00"
+  }
+]
