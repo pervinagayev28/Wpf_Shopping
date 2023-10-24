@@ -54,7 +54,7 @@
                     </ListView.ItemTemplate>
                 </ListView>
                 
-                <ListView Canvas.Left="370"  Background="#3CBC52"  ItemsSource="{Binding foods}" Name="listView" Width="600" Height="400" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                <ListView Canvas.Left="370"  Background="#3CBC52"  ItemsSource="{Binding foods}" Name="listView" Width="1000" Height="400" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
                     <ListView.ItemsPanel>
                         <ItemsPanelTemplate>
                             <WrapPanel Orientation="Horizontal"/>
@@ -78,7 +78,7 @@
                 </ListView>
                 
                 
-                <ListView x:Name="filteringList" Visibility="Hidden" Canvas.Left="370"  Background="#3CBC52"  ItemsSource="{Binding filteredFoods}"  Width="600" Height="400" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                <ListView x:Name="filteringList" Visibility="Hidden" Canvas.Left="370"  Background="#3CBC52"  ItemsSource="{Binding filteredFoods}"  Width="1000" Height="400" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
                     <ListView.ItemsPanel>
                         <ItemsPanelTemplate>
                             <WrapPanel Orientation="Horizontal"/>
