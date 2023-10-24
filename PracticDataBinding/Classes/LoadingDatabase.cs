@@ -14,7 +14,7 @@ namespace PracticDataBinding.Classes
     {
         public static ObservableCollection<Foods> Loading(ObservableCollection<Foods>? ToLoad, string FromLoad)
         {
-            ToLoad = JsonSerializer.Deserialize<ObservableCollection<Foods>>(File.ReadAllText(FromLoad));
+            ToLoad = JsonSerializer.Deserialize<ObservableCollection<Foods>>(File.ReadAllText("C:\\Users\\Agaye_jz58\\Source\\Repos\\Wpf_Shopping\\PracticDataBinding\\FoodsDatabaseJson\\jsconfig1.json"));
             return ToLoad;
         }
     }

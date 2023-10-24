@@ -8,19 +8,19 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="ImageResources\classic-hamburger-stock-photo-isolated-260nw-2282033179.webp" />
+    <None Remove="ImageResources\classic-hamburger-stock-photo-isolated-260nw-2282033179.jpg" />
     <None Remove="ImageResources\FusilliPasta8-500x375.jpg" />
-    <None Remove="ImageResources\Maki-zushi.webp" />
+    <None Remove="ImageResources\Maki-zushi.jpg" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="ImageResources\classic-hamburger-stock-photo-isolated-260nw-2282033179.webp">
+    <Content Include="ImageResources\classic-hamburger-stock-photo-isolated-260nw-2282033179.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="ImageResources\FusilliPasta8-500x375.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="ImageResources\Maki-zushi.webp">
+    <Content Include="ImageResources\Maki-zushi.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

@@ -8,8 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("imageresources/classic-hamburger-stock-photo-isolated-260nw-2282033179.webp")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("imageresources/classic-hamburger-stock-photo-isolated-260nw-2282033179.jpg")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("imageresources/fusillipasta8-500x375.jpg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("imageresources/maki-zushi.webp")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("imageresources/maki-zushi.jpg")]
 
 

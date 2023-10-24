@@ -31,7 +31,7 @@ namespace PracticDataBinding
         public MainWindow()
         {
             InitializeComponent();
-            foods = LoadingDatabase<Foods>.Loading(foods, "C:\\Users\\user\\OneDrive\\Desktop\\PracticDataBinding\\PracticDataBinding\\FoodsDatabaseJson\\jsconfig1.json");
+            foods = LoadingDatabase<Foods>.Loading(foods, "FoodsDatabaseJson\\jsconfig1.json");
             DataContext = this;
             filteringList.DataContext = this;
 
